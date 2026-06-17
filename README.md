@@ -14,9 +14,8 @@
 <hr>
 🚀 I just launched my new premium portfolio!
 
-✨ CLICK BELOW TO VIEW MY FULL INTERACTIVE PORTFOLIO ✨
-
-    https://mohammedaamersohel.github.io/portfolio/
+✨ CLICK ON THE LINK TO VIEW MY FULL INTERACTIVE PORTFOLIO ✨
+      https://mohammedaamersohel.github.io/portfolio/
 
 ### 🛠️ Expertise & Tools
 
