@@ -1,22 +1,37 @@
-Hi there, I'm Mohammed Aamer Sohel 👋
-Social Media Manager | AI Content Creator | Instagram Growth Strategist | Digital Brand Builder
-Portfolio
+<h1 align="center">Hi there, I'm Mohammed Aamer Sohel 👋</h1>
+<h3 align="center">Social Media Manager | AI Content Creator | Instagram Growth Strategist | Digital Brand Builder</h3>
 
-I am an expert in AI-driven content creation, leveraging the latest artificial intelligence tools to build digital brands, engineer ultra-realistic AI influencers, and drive unprecedented social media growth. I don't just post content; I architect digital experiences.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedaamersohel/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-🚀 What I Do
-🤖 AI & Prompt Engineering: Crafting ultra-realistic AI models and visual content using advanced generative tools.
-📈 Instagram Growth: Data-driven strategies, trend analysis, and algorithm hacking to skyrocket audience engagement.
-📱 Social Media Strategy: End-to-end management and digital brand development.
-🛠️ Expertise & Tools
-ChatGPTMidjourneyInstagramAnalyticsStrategy
+<p align="center">
+  I am an expert in AI-driven content creation, leveraging the latest artificial intelligence tools to build digital brands and drive unprecedented social media growth.
+</p>
 
-💼 Current Journey
-AI Content Creator & Social Media Manager at NovaX Hong Kong (Feb 2024 - Present)
-Managing AI-generated influencer content and hyper-growth strategies.
-Conducting hashtag research and optimizing content reach using social media analytics.
-📫 Let's Connect
-LinkedIn
-Email
+<hr>
 
-Mohammed Aamer Sohel's GitHub stats
+### 🛠️ Expertise & Tools
+
+- 🤖 **Text & Conversational AI:** ChatGPT Expert
+- 🎨 **AI Image Generation:** Nana Banana, Midjourney, AI Art
+- 🎥 **AI Video Generation:** Higgsfield AI
+- 📈 **Domain Expertise:** Social Media Management, Digital Marketing, AI Influencer Strategy
+
+<br>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aamersohel996&show_icons=true&theme=radical&hide_border=true" alt="Aamersohel996's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aamersohel996&theme=radical&hide_border=true" alt="Aamersohel996's GitHub Streak" />
+</p>
+
+---
+<p align="center">
+  <i>Let's connect and build the future of digital content together!</i>
+</p>
