@@ -13,7 +13,10 @@
 
 <hr>
 ### 🚀 I just launched my new premium portfolio!
-**[✨ CLICK HERE TO VIEW MY FULL INTERACTIVE PORTFOLIO ✨](https://mohammedaamersohel.github.io/mohammedaamersohel/)**
+
+**[✨ CLICK HERE TO VIEW MY FULL INTERACTIVE PORTFOLIO ✨]
+
+(https://mohammedaamersohel.github.io/mohammedaamersohel/)**
 ### 🛠️ Expertise & Tools
 
 - 🤖 **Text & Conversational AI:** ChatGPT Expert
